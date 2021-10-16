@@ -1,2 +1,2 @@
 # Android-Profile-UI-Design
-![screenshot](https://user-images.githubusercontent.com/24615144/Screenshoot.jpeg)
+![screenshot](https://github.com/GunturAP/Tugas1_1918069_Guntur/blob/main/app/src/main/res/drawable/Screnshoot.jpeg)
